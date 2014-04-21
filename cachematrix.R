@@ -1,4 +1,4 @@
-## The following functions case the inverse of a matrix.
+## The following functions calculate the inverse of a matrix.
 
 ## The makeCacheMatrix function takes a matrix, creates a special "matrix"
 ## object that can caches its inverse, and returns a list of the functions
